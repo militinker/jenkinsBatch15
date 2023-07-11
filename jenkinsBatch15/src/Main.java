@@ -4,9 +4,9 @@ public class Main {
 
 
 
-        for (int i = 1; i < 5; i++) {
+        for (int i = 1; i < 10; i++) {
             System.out.println("hello world");
-            Thread.sleep(2000);
+            Thread.sleep(1000);
         }
     }
 }
